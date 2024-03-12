@@ -1,5 +1,5 @@
 // declaro variavel a 
-let a = 60; 
+let a = 80; 
 //declaro variavel b 
 let b = 80;
 
