@@ -8,3 +8,4 @@ let resultado = a / b;
 // outro commit
 //exibir resultado 
 console.log(resultado);
+//adicionei
