@@ -4,7 +4,7 @@ let a = 30;
 let b = 10;
 
 //some o resultado de a po b
-let resultado = a + b;
+let resultado = a * b;
 
 //exibir resultado 
 console.log(resultado);
