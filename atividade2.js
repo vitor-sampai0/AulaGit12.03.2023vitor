@@ -1,7 +1,7 @@
 // declaro variavel a 
 let a = 60; 
 //declaro variavel b 
-let b = 60;
+let b = 80;
 
 //some o resultado de a po b
 let resultado = a + b;
