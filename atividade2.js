@@ -4,7 +4,7 @@ let a = 60;
 let b = 80;
 
 //some o resultado de a po b
-let resultado = a + b;
+let resultado = a / b;
 // outro commit
 //exibir resultado 
 console.log(resultado);
